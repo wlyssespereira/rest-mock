@@ -1,2 +1,2 @@
 # rest-mock
-Simple REST service
+Simple mock REST service
